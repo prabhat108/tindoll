@@ -8,19 +8,22 @@ color:#fff;}
 
 .container-fluid{padding: 3% 15%;}
 
-.navbar-brand{
-font-size: 2.7rem;
+.navbar-brand{font-style: oblique;
+  font-stretch:extra-expanded;
+   font-weight: bolder;
+font-size: 4rem;
 
 
 }
-.navbar{padding: 0 0 4.5rem}
-.nav-item{padding: 0 15px;
+.navbar{padding: 0 0 4.5rem;
+}
+.nav-item{padding: 0 12px;
 font-family: 'Roboto Condensed', sans-serif;
 font-weight: bold;}
 .nav-link{font-size: 1.2rem;
 
 font-weight: bold;
- font-family: "Montserrat-black";}
+ font-family: sans-serif;}
 
 
 .download-button{margin: 5% 3% 5% 0; }
